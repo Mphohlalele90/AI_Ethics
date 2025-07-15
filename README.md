@@ -51,8 +51,8 @@ This project explores the ethical challenges and considerations in Artificial In
 
 ## Author
 - Mpho Hlalele
-- steve Ogolla
-- Faith 
+- Steve Ogolla
+- Faith Tinarwo
 
 ---
 
