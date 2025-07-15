@@ -50,7 +50,9 @@ This project explores the ethical challenges and considerations in Artificial In
 - [GDPR Overview](https://gdpr.eu/)
 
 ## Author
-- [Your Name Here]
+- Mpho Hlalele
+- steve Ogolla
+- Faith 
 
 ---
 
